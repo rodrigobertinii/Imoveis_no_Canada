@@ -6,7 +6,7 @@
 
 ## Objetivo
 
-Realizar uma análise exploratória de dados (EDA) e modelagem preditiva dos preços das casas em várias cidades canadenses. Alenm disso, construção de um Dashboard para visulização dos dados.
+Realizar uma análise exploratória de dados (EDA) e modelagem preditiva dos preços das casas em várias cidades canadenses. Além disso, construção de um Dashboard para visulização dos dados.
 
 ## Conjunto de Dados
 
