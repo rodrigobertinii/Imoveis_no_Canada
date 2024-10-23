@@ -44,5 +44,7 @@ O conjunto de dados pode ser encontrado [aqui](https://www.kaggle.com/datasets/j
 
 Os modelos fornecem uma visão inicial dos preços das casas, mas com limitações significativas. O modelo preferido é o de regressão com 'Número de Quartos' e 'Número de Banheiros', apesar de apresentar um ajuste modesto. Melhorias adicionais são necessárias para aumentar a precisão.
 
+https://colab.research.google.com/drive/16h_reWixF1CaFPd3gpU2rJOHqafATAW5?usp=sharing
+
 
 
